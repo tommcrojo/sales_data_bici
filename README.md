@@ -18,7 +18,13 @@ Este repositorio documenta mi viaje a través de un análisis exhaustivo de dato
 - Preparé los datos para su análisis posterior en Excel y Tableau.
 
 ### 3. Análisis Exploratorio en Excel
-- Importé los datos limpios a Excel para un análisis inicial.
+- Importé los datos limpios a Excel para un análisis inicial. Esto se realizó conectando la base de datos en SQL Server a Excel (si hubieran nuevos datos, todo lo que vamos a hacer en Excel se actualizaría).
+- IMPORTANTE: para no cargar todos los datos de la base de datos, utilicé la query que hicimos en el paso anterior para poder extraer los datos que realmente nos hacen falta.
+
+![image](https://github.com/user-attachments/assets/8c3986ea-1b48-4854-bcb1-a78a05a686e2) 
+![image](https://github.com/user-attachments/assets/16f6bbf3-60a5-4594-a3e4-4f082d0f8b13)
+
+
 - Creé tablas dinámicas y gráficos para identificar tendencias preliminares.
 - Desarrollé un dashboard interactivo en Excel para visualizar KPIs clave.
 
