@@ -35,12 +35,6 @@ Este repositorio documenta mi viaje a través de un análisis exhaustivo de dato
 - Sinteticé los hallazgos clave del análisis.
 - Formulé recomendaciones basadas en datos para mejorar las ventas y la eficiencia operativa.
 
-## Estructura del Repositorio
-- `/sql_scripts`: Contiene las consultas SQL utilizadas para la extracción y limpieza de datos.
-- `/excel_files`: Incluye los archivos de Excel con análisis y dashboards.
-- `/tableau_workbooks`: Contiene los archivos de Tableau con visualizaciones avanzadas.
-- `/reports`: Documentos con insights y recomendaciones finales.
-
 ## Habilidades Demostradas
 - Consultas SQL avanzadas
 - Análisis de datos en Excel
