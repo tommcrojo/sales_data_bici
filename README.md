@@ -9,7 +9,7 @@ Este repositorio documenta mi viaje a través de un análisis exhaustivo de dato
 ### 1. Extracción de Datos con SQL
 - Diseñé consultas SQL complejas para extraer datos relevantes de una base de datos relacional.
 - Realicé joins entre múltiples tablas para obtener una vista completa de las ventas, clientes y productos.
-- (consultar archivo SQLQuery1.sql)
+- (consultar archivo [Query](SQLQuery1.sql))
 
 ![image](https://github.com/user-attachments/assets/57dcbb25-23fc-48b1-9777-885f071e326c)
 
