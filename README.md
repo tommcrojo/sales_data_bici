@@ -30,7 +30,8 @@ Este repositorio documenta mi viaje a través de un análisis exhaustivo de dato
 
 
 - Desarrollé un dashboard interactivo en Excel para visualizar KPIs clave.
-![image](https://github.com/user-attachments/assets/84b56ac5-088a-423b-86f7-eb893a6e33f8)
+![image](https://github.com/user-attachments/assets/95f27147-f5fe-47ea-8810-6a42524e1946)
+
 
 ### 4. Visualización Avanzada en Tableau
 - Conecté Tableau a los datos preparados para crear visualizaciones más complejas.
