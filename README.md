@@ -26,7 +26,11 @@ Este repositorio documenta mi viaje a través de un análisis exhaustivo de dato
 
 
 - Creé tablas dinámicas y gráficos para identificar tendencias preliminares.
+![image](https://github.com/user-attachments/assets/227cbcfe-e88f-4a00-a5e1-f9418be4635d)
+
+
 - Desarrollé un dashboard interactivo en Excel para visualizar KPIs clave.
+![image](https://github.com/user-attachments/assets/84b56ac5-088a-423b-86f7-eb893a6e33f8)
 
 ### 4. Visualización Avanzada en Tableau
 - Conecté Tableau a los datos preparados para crear visualizaciones más complejas.
