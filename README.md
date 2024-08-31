@@ -36,15 +36,8 @@ Este repositorio documenta mi viaje a través de un análisis exhaustivo de dato
 ### 4. Visualización Avanzada en Tableau
 - Conecté Tableau a los datos preparados para crear visualizaciones más complejas.
 - Diseñé un dashboard interactivo con múltiples vistas y filtros dinámicos.
-- Implementé mapas de calor, gráficos de dispersión y otras visualizaciones avanzadas.
-
-### 5. Análisis Financiero
-- Calculé métricas financieras clave como el margen de beneficio y el ROI por producto.
-- Realicé un análisis de tendencias para proyectar ventas futuras.
-
-### 6. Insights y Recomendaciones
-- Sinteticé los hallazgos clave del análisis.
-- Formulé recomendaciones basadas en datos para mejorar las ventas y la eficiencia operativa.
+![Captura de pantalla 2024-08-30 132204](https://github.com/user-attachments/assets/5799f48c-3bba-412d-91b8-e8b251c896c8)
+![Captura de pantalla 2024-08-30 132153](https://github.com/user-attachments/assets/296bdd9c-5b37-4493-9ede-fa13486aee5e)
 
 ## Habilidades Demostradas
 - Consultas SQL avanzadas
